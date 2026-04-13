@@ -1,7 +1,7 @@
 # Daily Content Session
 
 **Date:** 2026-04-13 (Monday)
-**Goal:** 3 tweets, pick 1 for thread, batch ideas for rest of week
+**Goal:** 3 tweets (1 winner spinoff + 2 experiments), 1 newsletter section
 
 ---
 
@@ -15,9 +15,23 @@
 
 ---
 
+## Today's 30/70 Split
+
+**Post 1 — Winner Spinoff** (exploitation of proven winner)
+- Which proven idea is this a spinoff of? [LINK/TOPIC]
+- The spin: [HOW THIS VARIES FROM THE ORIGINAL]
+
+**Post 2 — Experiment** (exploration)
+- New angle, new topic, new structure? [DESCRIBE]
+
+**Post 3 — Experiment** (exploration)
+- New angle, new topic, new structure? [DESCRIBE]
+
+---
+
 ## Tweet Drafts
 
-### Tweet 1 — [TOPIC]
+### Post 1 — [WINNER SPINOFF]
 **Status:** 🟡 drafted / 🟢 posted / 🔴 skipped
 
 ```
@@ -26,7 +40,7 @@
 
 Character count: ___/280
 
-### Tweet 2 — [TOPIC]
+### Post 2 — [EXPERIMENT #1]
 **Status:** 🟡 drafted / 🟢 posted / 🔴 skipped
 
 ```
@@ -35,7 +49,7 @@ Character count: ___/280
 
 Character count: ___/280
 
-### Tweet 3 — [TOPIC]
+### Post 3 — [EXPERIMENT #2]
 **Status:** 🟡 drafted / 🟢 posted / 🔴 skipped
 
 ```
@@ -46,36 +60,48 @@ Character count: ___/280
 
 ---
 
-## Best Tweet Today → Thread
+## Best Tweet Today → Thread / YouTube
 
-Selected: [TWEET NUMBER] — [REASON WHY]
+Selected: [POST NUMBER] — [REASON WHY]
 
-Thread slides drafted:
+Did this perform well enough to become a spinoff? ☐ Yes → add to winner pile
+                                               ☐ No → experiment failed, good data
+
+---
+
+## Newsletter Section Today
+
+Section: [WHAT SECTION/WHAT TOPIC]
+Status: 🟡 in progress / 🟢 complete
+
+Notes:
 ```
-[COPY FROM THREAD EXPANDER PROMPT OUTPUT]
+[ANY RESEARCH, QUOTES, OR IDEAS FOR THIS SECTION]
 ```
 
 ---
 
 ## Repurpose Log
 
-| Platform | Status | Link/Notes |
-|----------|--------|------------|
-| Twitter | 🟢 posted | |
-| Threads | 🟡 drafted / 🟢 posted | |
-| LinkedIn | 🟡 drafted / 🟢 posted | |
-| Instagram | 🟡 drafted / 🟢 posted | |
-| Reel | 🟡 drafted / 🟢 posted | |
+| Platform | Post 1 | Post 2 | Post 3 |
+|----------|--------|--------|--------|
+| Twitter | 🟢 posted | 🟢 posted | 🟢 posted |
+| Threads | 🟡 / 🟢 | 🟡 / 🟢 | 🟡 / 🟢 |
+| LinkedIn | 🟡 / 🟢 | 🟡 / 🟢 | 🟡 / 🟢 |
+| Instagram | 🟡 / 🟢 | 🟡 / 🟢 | 🟡 / 🟢 |
+| Reel | 🟡 / 🟢 | 🟡 / 🟢 | 🟡 / 🟢 |
 
 ---
 
 ## Notes / Sparks for Tomorrow
 
 - [IDEA FROM TODAY'S CONVERSATIONS OR OBSERVATIONS]
+- [NOTE WHICH EXPERIMENT RESONATED — DATA FOR NEXT WEEK]
 
 ---
 
 ## Evening Reflection
 
-What worked today? [QUICK NOTE]
-What to improve tomorrow? [QUICK NOTE]
+Winner today? [POST 1/2/3] or [NONE]
+Experiment result: [WHAT YOU LEARNED]
+Newsletter progress: [% COMPLETE]

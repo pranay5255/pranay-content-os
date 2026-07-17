@@ -1,117 +1,127 @@
-# Content Operating System
+# Pranay Content OS
 
-> Based on Dan Koe's system from the Greg Isenberg podcast: **Twitter-first, AI-augmented, daily output.**
+A personalized, evidence-aware publishing system for producing one high-quality technical post every other day for AI researchers, data scientists, and adjacent practitioners.
 
-## The Core Principle
+## Strategy
 
-All content starts from a single source: **one tweet** (280 chars). That tweet becomes everything else.
+- Objective: build authority and a recognizable technical point of view
+- Lead pillar: AI/ML research explained, reproduced, or challenged
+- Mix: 70% research, 20% adjacent AI engineering/data science, 10% personal/build-in-public
+- Default depth: advanced, with intermediate-accessible explanations where useful
+- Platforms: X and LinkedIn
+- Monthly expansion: one blog based on the strongest validated social idea
+- Visuals: explanatory, hand-drawn Excalidraw diagrams
+- Approval: Pranay reviews and publishes every post
+- First 30-day metric: publishing consistency
 
-```
-Newsletter (1x/week)
-        ↓
-Tweet (2-3x/day) ← START HERE
-        ↓
-┌──────────────────────────────────────────────┐
-│  Threads → Instagram → LinkedIn             │
-│  Reels/TikToks (tweet as script)            │
-│  YouTube (newsletter → video)               │
-└──────────────────────────────────────────────┘
-```
+Read `SYSTEM/content-profile.md` for the complete strategy and `.hermes.md` for Daifu's operating rules.
 
-## The Idea Flywheel
+## Alternate-Day Loop
 
-```
-Twitter (litmus test for idea)
-        ↓ (if it performs)
-YouTube (deep dive — use newsletter as script)
-        ↓
-Newsletter (full breakdown + research synthesis)
-        ↓
-More Twitter posts (spinoffs of the winning idea)
-        ↓
-Repeat
-```
-
-## Daily Structure
-
-Every morning → 2-hour writing block:
-- Finish 1 section of newsletter
-- Write 3 social posts
-- Schedule/paste to all platforms
-
-That's it. Done in 2 hours. Rest of the day = freedom.
-
-## Weekly Rhythm
-
-| Day | Focus |
-|-----|-------|
-| Monday | Weekly newsletter starts |
-| Tue-Thu | 2-hour writing block daily |
-| Friday | Newsletter final edit |
-| Saturday | Record YouTube video (newsletter as script) |
-| Sunday | Weekly reset: 60 ideas, pick next theme, archive week |
-
-## Directory Structure
-
-```
-pranay-content-os/
-├── README.md
-├── SOURCE_TRANSCRIPT.md          ← full podcast notes
-├── PROMPTS/
-│   ├── idea-generator.md         ← 5 ideas/day
-│   ├── tweet-writer.md          ← 3 options per idea
-│   ├── thread-expander.md        ← tweet → 6-8 slides
-│   ├── linkedin-transformer.md
-│   ├── reel-script-writer.md
-│   ├── newsletter-writer.md
-│   ├── deep-posts-generator.md  ← newsletter → building blocks
-│   ├── content-ideas-generator.md ← 60 ideas pipeline
-│   ├── youtube-title-generator.md
-│   ├── anatomy-of-viral-posts.md ← the breakdown technique
-│   ├── swipe-file-builder.md
-│   └── offer-blueprint-generator.md
-├── STYLE/
-│   └── guide.md
-├── SYSTEM/
-│   ├── daily-template.md
-│   ├── weekly-template.md
-│   └── reminders.md
-└── DAILY/
-    └── YYYY-MM-DD.md
+```text
+Telegram reminder
+       ↓
+“What did you learn, build, test, read,
+or change your mind about?”
+       ↓
+Adaptive one-question-at-a-time interview
+       ↓
+Research + source/profile verification
+       ↓
+Choose the best format
+       ↓
+Draft main post + optional adaptation
+       ↓
+Excalidraw visual brief + alt text
+       ↓
+Pranay reviews and publishes
+       ↓
+Log consistency and qualitative feedback
 ```
 
-## The 30/70 Growth Formula
+## Supported Formats
 
-Every day: 3 posts
-- **1 post**: Spinoff of your proven winner (30% = exploitation)
-- **2 posts**: New experiments to find next winner (70% = exploration)
+- Concise insight
+- Technical tutorial
+- Research breakdown
+- Failure or lesson story
 
-When a new winner is found → make it a daily spinoff → now 2 winners → repeat.
+The idea determines the format; the system does not force every topic into the same template.
 
-This is the entire growth process on any platform.
+## Quality Gate
 
-## Key Insights from Dan Koe
+Every publishable post should:
 
-- **Twitter first** — 280 chars sharpens everything
-- **2-3 posts/day minimum**
-- **1 newsletter/week baseline**
-- **One idea → repurposed everywhere**
-- **Write Twitter, convert to YouTube, expand to newsletter**
-- **Images = 40% better performance** on X (use them)
-- **Don't edit while generating** — generate first, edit second
-- **2 hours/day** = the entire content engine
-- **Context is king** — give AI everything, get gold back
+1. Help a clearly identified technical reader.
+2. Include a concrete example or code when applicable.
+3. Support external claims with credible sources, benchmarks, statistics, or reproducible results.
+4. Distinguish facts, source claims, interpretation, and opinion.
+5. Include meaningful limitations or counterarguments.
+6. Use only verified X/LinkedIn source profiles when tagging.
+7. Include a visual that teaches, not merely decorates.
+8. Be reviewed by Pranay before publication.
 
-## The Prompt Meta-Technique (How to Learn Anything)
+## Key Files
 
-When you see content you love:
-1. Ask AI to **break it down** (structure + psychology)
-2. Treat that as instructions
-3. Feed into a **"prompt that helps you create prompts"**
-4. Get a custom prompt for your own content
+```text
+.hermes.md                              Project instructions for Daifu
+SYSTEM/content-profile.md               Audience, pillars, cadence, and quality bar
+STYLE/guide.md                          Voice, evidence, tagging, and formatting rules
+SYSTEM/reminders.md                     Telegram reminder and conversation workflow
+SYSTEM/daily-template.md                Per-post working and publication record
+SYSTEM/weekly-template.md               Consistency and bottleneck review
+SYSTEM/monthly-blog-template.md         Monthly long-form expansion
+PROMPTS/technical-post-session.md       Interactive drafting prompt
+PROMPTS/excalidraw-visual-generator.md  Reusable Excalidraw visual brief prompt
+SYSTEM/onboarding-questionnaire.md      Original setup interview
+```
 
-This turns any format you admire into a repeatable system.
+The older prompt library remains available under `PROMPTS/` for threads, newsletters, reels, swipe files, and idea generation. Use those selectively rather than as mandatory output.
 
-## Tools
+## Daily Swipe Analysis
 
-Just Claude and Gemini (for long video summaries). No fancy stack. **The system is the advantage.**
+A second workflow studies one strong X post each day:
+
+```text
+11:15 PM Telegram reminder
+       ↓
+Pranay shares an X URL, text, or screenshot
+       ↓
+Original-source capture
+       ↓
+Structure + line-by-line + psychology analysis
+       ↓
+Critical audit and ethical reuse blueprint
+       ↓
+Pranay approves or rejects
+       ↓
+Approved analysis → ARCHIVE/analysis/
+       ↓
+Every 3 related approvals → provisional anatomy guide
+```
+
+Key files:
+
+- `PROMPTS/swipe-analysis-session.md`
+- `PROMPTS/swipe-file-builder.md`
+- `PROMPTS/anatomy-of-viral-posts.md`
+- `ARCHIVE/analysis/INDEX.md`
+- `SYSTEM/anatomy-guides/README.md`
+
+Analyses are archived only after explicit approval. The system extracts transferable patterns rather than copying wording.
+
+The daily swipe reminder is active:
+
+- Time: 11:15 PM Asia/Kolkata
+- Delivery: Telegram home chat
+- Job ID: `60ead7ec1e92`
+
+## Reminder Status
+
+Telegram reminder is active.
+
+- First reminder: July 18, 2026 at 6:00 PM Asia/Kolkata
+- Recurrence: every 48 hours, anchored to the first reminder
+- Delivery: Telegram home chat
+- Job name: `Daifu alternate-day technical content reminder`
+- Job ID: `6cf206508f2b`

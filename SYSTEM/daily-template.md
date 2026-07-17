@@ -1,107 +1,101 @@
-# Daily Content Session
+# Alternate-Day Technical Content Session
 
-**Date:** 2026-04-13 (Monday)
-**Goal:** 3 tweets (1 winner spinoff + 2 experiments), 1 newsletter section
-
----
-
-## Morning Ideas (from idea-generator)
-
-1. [IDEA 1]
-2. [IDEA 2]
-3. [IDEA 3]
-4. [IDEA 4] ← extra for buffer
-5. [IDEA 5] ← extra for buffer
+**Date:** YYYY-MM-DD
+**Reminder due:** yes / no
+**Primary platform:** X / LinkedIn
+**Status:** idea / researching / drafting / review / published / skipped
 
 ---
 
-## Today's 30/70 Split
+## Reminder Answer
 
-**Post 1 — Winner Spinoff** (exploitation of proven winner)
-- Which proven idea is this a spinoff of? [LINK/TOPIC]
-- The spin: [HOW THIS VARIES FROM THE ORIGINAL]
+**What did you learn, build, test, read, or change your mind about since the last post?**
 
-**Post 2 — Experiment** (exploration)
-- New angle, new topic, new structure? [DESCRIBE]
+> [Pranay's answer]
 
-**Post 3 — Experiment** (exploration)
-- New angle, new topic, new structure? [DESCRIBE]
+## Content Decision
 
----
+- Primary reader: AI researcher / data scientist / intermediate practitioner
+- Pillar: research / AI engineering-data science / build-in-public
+- Format: concise insight / tutorial / research breakdown / lesson story
+- Core claim:
+- Reader payoff:
+- Contrarian angle, if justified:
+- Strongest limitation or counterargument:
 
-## Tweet Drafts
+## Evidence Pack
 
-### Post 1 — [WINNER SPINOFF]
-**Status:** 🟡 drafted / 🟢 posted / 🔴 skipped
+### Concrete example, code, or experiment
 
-```
-[DRAFT TWEET - 280 chars max]
-```
-
-Character count: ___/280
-
-### Post 2 — [EXPERIMENT #1]
-**Status:** 🟡 drafted / 🟢 posted / 🔴 skipped
-
-```
-[DRAFT TWEET - 280 chars max]
+```text
+[real example, snippet, method, or result]
 ```
 
-Character count: ___/280
+### Sources and verified profiles
 
-### Post 3 — [EXPERIMENT #2]
-**Status:** 🟡 drafted / 🟢 posted / 🔴 skipped
+| Source | Why authoritative | X profile | LinkedIn profile | Verified? |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+| | | | | |
 
-```
-[DRAFT TWEET - 280 chars max]
-```
+### Claim ledger
 
-Character count: ___/280
+| Claim | Fact / source claim / interpretation / opinion | Evidence | Safe wording |
+|---|---|---|---|
+| | | | |
 
----
+## Main Post
 
-## Best Tweet Today → Thread / YouTube
-
-Selected: [POST NUMBER] — [REASON WHY]
-
-Did this perform well enough to become a spinoff? ☐ Yes → add to winner pile
-                                               ☐ No → experiment failed, good data
-
----
-
-## Newsletter Section Today
-
-Section: [WHAT SECTION/WHAT TOPIC]
-Status: 🟡 in progress / 🟢 complete
-
-Notes:
-```
-[ANY RESEARCH, QUOTES, OR IDEAS FOR THIS SECTION]
+```text
+[DRAFT]
 ```
 
----
+## Optional Second-Platform Adaptation
 
-## Repurpose Log
+```text
+[DRAFT OR NOT NEEDED]
+```
 
-| Platform | Post 1 | Post 2 | Post 3 |
-|----------|--------|--------|--------|
-| Twitter | 🟢 posted | 🟢 posted | 🟢 posted |
-| Threads | 🟡 / 🟢 | 🟡 / 🟢 | 🟡 / 🟢 |
-| LinkedIn | 🟡 / 🟢 | 🟡 / 🟢 | 🟡 / 🟢 |
-| Instagram | 🟡 / 🟢 | 🟡 / 🟢 | 🟡 / 🟢 |
-| Reel | 🟡 / 🟢 | 🟡 / 🟢 | 🟡 / 🟢 |
+## Excalidraw Visual Brief
 
----
+- Teaching goal:
+- Diagram type:
+- Aspect ratio:
+- Nodes and exact labels:
+- Connections:
+- Semantic colors:
+- Caveat/failure emphasis:
+- Negative constraints:
+- Alt text:
 
-## Notes / Sparks for Tomorrow
+## Pre-publication Check
 
-- [IDEA FROM TODAY'S CONVERSATIONS OR OBSERVATIONS]
-- [NOTE WHICH EXPERIMENT RESONATED — DATA FOR NEXT WEEK]
+- [ ] Useful to a clearly identified technical reader
+- [ ] Concrete example/code included or correctly marked not applicable
+- [ ] External claims supported by credible sources
+- [ ] Source tags verified; no guessed handles
+- [ ] Facts separated from interpretation/opinion
+- [ ] Meaningful limitation included
+- [ ] No invented personal experience, metric, quote, or result
+- [ ] Excalidraw visual teaches rather than decorates
+- [ ] Reviewed and approved by Pranay
 
----
+## Publication Log
 
-## Evening Reflection
+- Scheduled: yes / no
+- Published: yes / no
+- Platform:
+- URL:
+- Published at:
+- Visual used: yes / no
+- Blocker if skipped:
 
-Winner today? [POST 1/2/3] or [NONE]
-Experiment result: [WHAT YOU LEARNED]
-Newsletter progress: [% COMPLETE]
+## Follow-up Metrics
+
+- Impressions:
+- Saves/bookmarks:
+- Meaningful technical comments:
+- Expert replies:
+- Profile visits/follows:
+- What the feedback suggests:

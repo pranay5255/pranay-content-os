@@ -1,67 +1,58 @@
 # Weekly Content Review
 
-**Week of:** 2026-04-07 to 2026-04-13
+**Week:** YYYY-MM-DD to YYYY-MM-DD
 
----
+## Consistency
 
-## Week's Best Tweets (Ranked)
+| Scheduled date | Published? | Platform | Topic | Link | Blocker |
+|---|---:|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
 
-1. **[DATE]**: "[TWEET TEXT]" — [WHY IT WORKED OR ENGAGEMENT]
-2. **[DATE]**: "[TWEET TEXT]" — [WHY IT WORKED OR ENGAGEMENT]
-3. **[DATE]**: "[TWEET TEXT]" — [WHY IT WORKED OR ENGAGEMENT]
-
----
-
-## Newsletter Draft
-
-**Theme for this week:** [PICK ONE MAIN THEME FROM ABOVE]
-
-Subject line options:
-- Option A: [CURIOUS OPENING]
-- Option B: [PROVOCATIVE CLAIM]
-- Option C: [STORY HOOK]
-
-Draft:
-```
-[COPY FROM NEWSLETTER WRITER PROMPT OUTPUT]
+```text
+Consistency rate = published scheduled posts / total scheduled posts
 ```
 
-Status: 🟡 drafted / 🟢 sent
+- Scheduled posts:
+- Published posts:
+- Consistency rate:
 
----
+## Quality Signals
 
-## Content Stats
+These are diagnostic during the first 30 days; consistency remains the primary target.
 
-| Platform | Posts This Week | Best Performer |
-|----------|----------------|----------------|
-| Twitter | | |
-| Threads | | |
-| LinkedIn | | |
-| Reels | | |
-| Newsletter | | |
+| Post | Saves | Meaningful comments | Expert replies | Follows/visits | Qualitative signal |
+|---|---:|---:|---:|---:|---|
+| | | | | | |
 
----
+## Pillar Mix
 
-## What's Working
+- AI/ML research explained or reproduced (target 70%):
+- AI engineering/data science (target 20%):
+- Personal/build-in-public (target 10%):
 
-- [WHAT CONTENT FORMAT IS RESONATING]
-- [WHAT TOPIC GOT MORE ENGAGEMENT]
-- [WHAT TIME OF DAY PERFORMED BEST]
+## What Worked
 
----
+- Topic:
+- Format:
+- Evidence type:
+- Hook/angle:
+- Excalidraw visual:
 
-## What to Change Next Week
+## What Created Friction
 
-- [X] to add more of
-- [Y] to reduce or eliminate
-- [Z] experiment to try
+- Idea selection:
+- Research/source verification:
+- Writing/editing:
+- Visual creation:
+- Review/publishing:
 
----
+## Next Week
 
-## Idea Bank (For Next Week)
-
-1. [SPARK FROM THIS WEEK]
-2. [BOOK/PODCAST NOTE]
-3. [CONVERSATION INSIGHT]
-4. [FAILURE LESSON]
-5. [OBSERVATION ABOUT YOUR NICHE]
+- One practice to keep:
+- One bottleneck to remove:
+- One advanced-reader topic:
+- One intermediate-accessible topic:
+- Candidate idea for the monthly blog:
